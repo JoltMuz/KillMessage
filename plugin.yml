@@ -1,0 +1,10 @@
+main: io.github.JoltMuz.KillMessage.main
+name: KillMessage
+version: 1.0
+author: JoltTheBolt
+
+commands:
+  killmessage:
+    description: /killmessage help
+    usage: /killmessage [enable|disable|add|set|remove|list]
+    aliases: [kmsg]
